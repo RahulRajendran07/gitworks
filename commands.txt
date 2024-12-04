@@ -5,3 +5,6 @@
 > git clone [exact copy from remote repositiry to local workspace ]
 > git pull [changes from remote repository to local workspace]
 > git push [local repository changes to remote repository]
+> git config --list [to list configuration]
+> git config --global user.name "username" [to add username]
+> git config --global user.email "useremail" [to add useremail]
